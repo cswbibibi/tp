@@ -1,4 +1,4 @@
-# Duke
+# Map
 
 {Give product intro here}
 
