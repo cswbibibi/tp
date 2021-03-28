@@ -23,8 +23,8 @@ Format: `listAllLocarions<facility_type>`
 
 Example of usage: 
 
-`listAllLocarions<Canteen>`
-`listAllLocarions<library>`
+`listAllLocarions<Canteen>`\n
+`listAllLocarions<library>`\n
 `listAllLocarions<LECTURE THEATER>`
 
 ### search<facility_type>
