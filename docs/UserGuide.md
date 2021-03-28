@@ -13,7 +13,7 @@
 
 ## Features 
 
-### listAllLocations<facility_type>
+### **listAllLocations**
 List all locations for a specific facility.
 
 Format: `listAllLocarions<facility_type>`
@@ -23,8 +23,8 @@ Format: `listAllLocarions<facility_type>`
 
 Example of usage: 
 
-`listAllLocarions<Canteen>`\n
-`listAllLocarions<library>`\n
+`listAllLocarions<Canteen>`\
+`listAllLocarions<library>`\
 `listAllLocarions<LECTURE THEATER>`
 
 ### search<facility_type>
