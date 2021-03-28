@@ -9,25 +9,25 @@
 {Give steps to get started quickly}
 
 1. Ensure that you have Java 11 or above installed.
-1. Down the latest version of `Duke` from [here](http://link.to/duke).
+1. Down the latest version of `Map` from [here](http://link.to/Map).
 
 ## Features 
 
 {Give detailed description of each feature}
 
-### Adding a todo: `todo`
-Adds a new item to the list of todo items.
+### `listAllLocations< >'
+List all locations for a specific facility:
 
-Format: `todo n/TODO_NAME d/DEADLINE`
+Format: `listAllLocarions<facility_name>`
 
-* The `DEADLINE` can be in a natural language format.
-* The `TODO_NAME` cannot contain punctuation.  
+* The `facility_name` can be either canteen, library or lecture theater.
+* The `facility_name` are not case sensitive.  
 
 Example of usage: 
 
-`todo n/Write the rest of the User Guide d/next week`
-
-`todo n/Refactor the User Guide to remove passive voice d/13/04/2020`
+`listAllLocarions<Canteen>`
+`listAllLocarions<library>`
+`listAllLocarions<LECTURE THEATER>`
 
 ## FAQ
 
