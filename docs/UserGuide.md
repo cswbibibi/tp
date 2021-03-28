@@ -13,10 +13,8 @@
 
 ## Features 
 
-{Give detailed description of each feature}
-
-### `listAllLocations< >'
-List all locations for a specific facility:
+### listAllLocations<facility_type>
+List all locations for a specific facility.
 
 Format: `listAllLocarions<facility_name>`
 
@@ -29,6 +27,12 @@ Example of usage:
 `listAllLocarions<library>`
 `listAllLocarions<LECTURE THEATER>`
 
+### search<facility_type>
+Search a facility's location by the faciloty type and facility id.
+
+### findFacility<location><facility_type><top_K>
+Find the top K nearest facilities of a certai  type from a specific location.
+  
 ## FAQ
 
 **Q**: How do I transfer my data to another computer? 
@@ -38,5 +42,3 @@ Example of usage:
 ## Command Summary
 
 {Give a 'cheat sheet' of commands here}
-
-* Add todo `todo n/TODO_NAME d/DEADLINE`
