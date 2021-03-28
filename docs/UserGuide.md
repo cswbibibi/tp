@@ -16,10 +16,10 @@
 ### listAllLocations<facility_type>
 List all locations for a specific facility.
 
-Format: `listAllLocarions<facility_name>`
+Format: `listAllLocarions<facility_type>`
 
-* The `facility_name` can be either canteen, library or lecture theater.
-* The `facility_name` are not case sensitive.  
+* The `facility_type` can be either canteen, library or lecture theater.
+* The `facility_type` are not case sensitive.  
 
 Example of usage: 
 
