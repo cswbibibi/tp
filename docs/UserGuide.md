@@ -27,10 +27,10 @@ Example of usage:
 `listAllLocarions<library>`\
 `listAllLocarions<LECTURE THEATER>`
 
-### search<facility_type>
+### **search**
 Search a facility's location by the faciloty type and facility id.
 
-### findFacility<location><facility_type><top_K>
+### **findFacility**
 Find the top K nearest facilities of a certai  type from a specific location.
   
 ## FAQ
